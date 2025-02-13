@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Connex-resell/static/css/main.f12879c0.css",
+    "main.js": "/Connex-resell/static/js/main.3f4cc5ab.js",
+    "index.html": "/Connex-resell/index.html",
+    "main.f12879c0.css.map": "/Connex-resell/static/css/main.f12879c0.css.map",
+    "main.3f4cc5ab.js.map": "/Connex-resell/static/js/main.3f4cc5ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f12879c0.css",
+    "static/js/main.3f4cc5ab.js"
+  ]
+}
