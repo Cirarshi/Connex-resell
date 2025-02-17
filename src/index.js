@@ -58,7 +58,8 @@ function Header() {
 }
 
 function Menu() {
-  const numProducts = productsData.length;
+  const products = productsData;
+  const numProducts = products.length;
   return (
     <main className="menu">
       <h2>Our Products</h2>
@@ -71,7 +72,7 @@ function Menu() {
           </p>
 
           <ul className="products">
-            {productsData.map((product) => (
+            {products.map((product) => (
               <Products productObj={product} key={product.name} />
             ))}
           </ul>
