@@ -115,4 +115,9 @@ Built with ❤️ using React and open-source tools
 Inspired by the need to reduce e‑waste and promote electronics reuse
 Thanks to all contributors and the community for support!
 
+📸 Preview
 <img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/a7534c92-38f3-4683-acd6-9d7e34a950a4" />
+
+📬 Connect with Me
+GitHub: [@Cirarshi](https://github.com/Cirarshi)
+LinkedIn: https://www.linkedin.com/in/utkarsh-kapoor-6b3200127/
