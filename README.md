@@ -15,7 +15,7 @@
 - [🤝 Contribute](#-contribute)  
 - [📄 License](#-license)  
 - [🙏 Acknowledgments](#-acknowledgments)
-- [📬 Connect with MeE](#-connect-with-me)
+- [📬 Connect with Me](#-connect-with-me)
 
 ---
 
