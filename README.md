@@ -1,70 +1,118 @@
-# Getting Started with Create React App
+# 🔁 Connex‑resell
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎯 A React-based marketplace for buying and selling **used electronics**. Designed to help users find affordable devices, reduce e‑waste, and contribute to a more sustainable future.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 📚 Table of Contents
 
-### `npm start`
+- [✨ Features](#-features)  
+- [🚀 Demo](#-demo)  
+- [🛠️ Tech Stack](#-tech-stack)  
+- [📁 Project Structure](#-project-structure)  
+- [⚙️ Installation & Setup](#️-installation--setup)  
+- [🧑‍💻 Usage](#-usage)  
+- [🤝 Contribute](#-contribute)  
+- [📄 License](#-license)  
+- [🙏 Acknowledgments](#-acknowledgments)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
 
-### `npm test`
+✅ Browse a wide variety of used electronic items  
+✅ View product details with images, descriptions, and pricing  
+✅ Secure user authentication (Sign up / Login)  
+✅ Add, edit, and delete your own listings  
+✅ Search, filter, and sort products  
+✅ Mobile-friendly & responsive UI  
+✅ Future-ready for payment and messaging integrations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🚀 Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🔗 **Live App:** _[Coming Soon or Insert Link Here]_  
+🧪 Or clone the repo and run locally using the steps below.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Tech Stack
 
-### `npm run eject`
+| 🔧 Category      | ⚙️ Tools Used                |
+|------------------|------------------------------|
+| Frontend         | React (Create React App)     |
+| Styling          | Tailwind CSS / CSS Modules *(customize based on your actual setup)* |
+| State Management | Context API / Redux *(if used)* |
+| Deployment       | Netlify / Vercel / GitHub Pages |
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📁 Project Structure
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+Connex-resell/
+├── public/                 # Static files
+│   └── index.html
+├── src/                    # Source code
+│   ├── components/         # Reusable UI components
+│   ├── pages/              # Page components (Home, Product, Auth, etc.)
+│   ├── contexts/           # Context providers (e.g., Auth, Listings)
+│   ├── utils/              # Utility functions & helpers
+│   ├── App.jsx             # App component & routing
+│   └── index.jsx           # React entry point
+├── .env                    # Environment variables
+├── package.json            # Project metadata and dependencies
+└── README.md               # You are here 📄
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+⚙️ Installation & Setup
 
-## Learn More
+Follow these steps to get started with the project locally:
+  📥 Clone the repo
+  
+    git clone https://github.com/Cirarshi/Connex-resell.git
+    cd Connex-resell
+  📦 Install dependencies
+    
+    npm install
+  🔐 Setup environment variables
+  Create a .env file in the root directory:
+    REACT_APP_API_URL=https://your-backend-api.com
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  🚀 Start the development server
+    
+    npm start
+  App will run at: http://localhost:3000
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  📦 Build for production
+    
+    npm run build
 
-### Code Splitting
+🧑‍💻 Usage
+- 👀 Browse Listings – View all available used electronics
+- 🔎 Search/Filter – Narrow results by type, price, or condition
+- 🔐 Login/Register – Sign in to access seller features
+- 📝 Create Listings – Add your own items with description & images
+- 🗂️ Manage Listings – Edit or remove your items anytime
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🤝 Contribute
+We welcome contributions! 💡 Here's how:
 
-### Analyzing the Bundle Size
+🔱 Fork the repository
+🛠 Create a new branch (git checkout -b feature/awesome-feature)
+💬 Make your changes and commit (git commit -m "feat: add awesome feature")
+📤 Push to your fork (git push origin feature/awesome-feature)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+📩 Submit a pull request
+Please ensure your code follows the existing style and is well-documented.
 
-### Making a Progressive Web App
+📄 License
+Feel free to use, modify, and share with attribution.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+🙏 Acknowledgments
+Built with ❤️ using React and open-source tools
+Inspired by the need to reduce e‑waste and promote electronics reuse
+Thanks to all contributors and the community for support!
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/a7534c92-38f3-4683-acd6-9d7e34a950a4" />
