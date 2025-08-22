@@ -66,7 +66,7 @@ Connex-resell/
 └── README.md               # You are here 📄
 ```
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 Follow these steps to get started with the project locally:
   📥 Clone the repo
