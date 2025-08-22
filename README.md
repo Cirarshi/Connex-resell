@@ -7,7 +7,7 @@
 ## 📚 Table of Contents
 
 - [✨ Features](#-features)  
-- [🚀 Demo](#-demo)  
+- [📸 Preview](#-preview)
 - [🛠️ Tech Stack](#-tech-stack)  
 - [📁 Project Structure](#-project-structure)  
 - [⚙️ Installation & Setup](#️-installation--setup)  
@@ -15,7 +15,6 @@
 - [🤝 Contribute](#-contribute)  
 - [📄 License](#-license)  
 - [🙏 Acknowledgments](#-acknowledgments)
-- [📸 Preview](#-preview)
 - [📬 Connect with MeE](#-connect-with-me)
 
 ---
@@ -32,10 +31,8 @@
 
 ---
 
-## 🚀 Demo
-
-🔗 **Live App:** _[Coming Soon or Insert Link Here]_  
-🧪 Or clone the repo and run locally using the steps below.
+## 📸 Preview
+<img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/a7534c92-38f3-4683-acd6-9d7e34a950a4" />
 
 ---
 
@@ -123,8 +120,7 @@ Inspired by the need to reduce e‑waste and promote electronics reuse
 
 Thanks to all contributors and the community for support!
 
-## 📸 Preview
-<img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/a7534c92-38f3-4683-acd6-9d7e34a950a4" />
+
 
 ## 📬 Connect with Me
 GitHub: [@Cirarshi](https://github.com/Cirarshi)
