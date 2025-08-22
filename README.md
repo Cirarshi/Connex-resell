@@ -102,8 +102,11 @@ Follow these steps to get started with the project locally:
 We welcome contributions! 💡 Here's how:
 
 🔱 Fork the repository
+
 🛠 Create a new branch (git checkout -b feature/awesome-feature)
+
 💬 Make your changes and commit (git commit -m "feat: add awesome feature")
+
 📤 Push to your fork (git push origin feature/awesome-feature)
 
 📩 Submit a pull request
@@ -113,8 +116,11 @@ Please ensure your code follows the existing style and is well-documented.
 Feel free to use, modify, and share with attribution.
 
 ## 🙏 Acknowledgments
+
 Built with ❤️ using React and open-source tools
+
 Inspired by the need to reduce e‑waste and promote electronics reuse
+
 Thanks to all contributors and the community for support!
 
 ## 📸 Preview
