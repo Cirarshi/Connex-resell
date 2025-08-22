@@ -15,6 +15,8 @@
 - [🤝 Contribute](#-contribute)  
 - [📄 License](#-license)  
 - [🙏 Acknowledgments](#-acknowledgments)
+- [📸 Preview](#-preview)
+- [📬 Connect with MeE](#-connect-with-me)
 
 ---
 
@@ -89,14 +91,14 @@ Follow these steps to get started with the project locally:
     
     npm run build
 
-🧑‍💻 Usage
+## 🧑‍💻 Usage
 - 👀 Browse Listings – View all available used electronics
 - 🔎 Search/Filter – Narrow results by type, price, or condition
 - 🔐 Login/Register – Sign in to access seller features
 - 📝 Create Listings – Add your own items with description & images
 - 🗂️ Manage Listings – Edit or remove your items anytime
 
-🤝 Contribute
+## 🤝 Contribute
 We welcome contributions! 💡 Here's how:
 
 🔱 Fork the repository
@@ -107,17 +109,17 @@ We welcome contributions! 💡 Here's how:
 📩 Submit a pull request
 Please ensure your code follows the existing style and is well-documented.
 
-📄 License
+## 📄 License
 Feel free to use, modify, and share with attribution.
 
-🙏 Acknowledgments
+## 🙏 Acknowledgments
 Built with ❤️ using React and open-source tools
 Inspired by the need to reduce e‑waste and promote electronics reuse
 Thanks to all contributors and the community for support!
 
-📸 Preview
+## 📸 Preview
 <img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/a7534c92-38f3-4683-acd6-9d7e34a950a4" />
 
-📬 Connect with Me
+## 📬 Connect with Me
 GitHub: [@Cirarshi](https://github.com/Cirarshi)
 LinkedIn: https://www.linkedin.com/in/utkarsh-kapoor-6b3200127/
